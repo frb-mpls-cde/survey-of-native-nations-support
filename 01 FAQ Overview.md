@@ -11,7 +11,7 @@
 * [What is the Federal Reserve?](/01%20FAQ%20Overview.md#what-is-the-federal-reserve)
 *  [What is the Survey of Native Nations?](/01%20FAQ%20Overview.md#what-is-the-survey-of-native-nations)
 * [How will CICD protect and use my data?](/01%20FAQ%20Overview.md#how-will-cicd-protect-and-use-my-data)
-* [What are CICD’s research and data use principles](/01%20FAQ%20Overview.md#what-are-cicds-research-and-data-use-principles)
+* [What are CICD’s research and data use principles?](/01%20FAQ%20Overview.md#what-are-cicds-research-and-data-use-principles)
    * [Informed and prior consent](/01%20FAQ%20Overview.md#data-protection)
    * [Data protection](/01%20FAQ%20Overview.md#data-protection)
    * [Data governance](/01%20FAQ%20Overview.md#data-governance)
