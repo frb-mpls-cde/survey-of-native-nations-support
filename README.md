@@ -16,13 +16,13 @@ On this resource, you will be able to access all of the survey support resources
 
 | Resource | Purpose |
 |----------|---------|
-| [01 FAQ Overview](/01%20FAQ%20Overview.md) | Answers to common questions about the Survey of Native Nation and CICD |
+| [01 FAQ Overview](/01%20FAQ%20Overview.md) | Answers to common questions about the Survey of Native Nations and CICD |
 | [02 Okta How-to Guide](/02%20Okta%20How-to%20Guide.md) | Learn why we use Multifactor Authentication and how to set it up |
 | [03 Qualtrics How-to Guide](/03%20Qualtrics%20How-to%20Guide.md) | Learn about the Survey platform and how to access it |
 | [04 Troubleshooting](/04%20Troubleshooting.md) | General advice if you are having trouble with Okta and Qualtrics |
 | [05 Data Governance: How is Survey of Native Nations Data Managed?](/05%20Data%20Governance:%20How%20is%20Survey%20of%20Native%20Nations%20Data%20Managed%3F.md) | Learn how CICD manages and protects your data |
 | [06 SNN Questionnaire](/06%20SNN%20Questionnaire.pdf) | The full text of the questionnaire in a convenient PDF |
-| Survey Guide (Coming Soon!) | Section by section guide to key survey questions |
+| Survey Guide (Coming Soon!) | Section-by-section guide to key survey questions |
 
 ## Table of Contents
 * [Getting Started](/README.md#getting-started)
@@ -33,7 +33,7 @@ On this resource, you will be able to access all of the survey support resources
 * [Questions](/README.md#questions)
  
 ## Getting Started
-Add our emails to your Safe Senders.  To ensure messages with important information don’t get lost, save the "@mpls.frb.org" domain to to your Safe Senders list. 
+Add our emails to your Safe Senders. To ensure messages with important information don’t get lost, save the "@mpls.frb.org" domain to to your Safe Senders list. 
 
 
 ## Events
@@ -53,10 +53,10 @@ We are planning a series of survey launch and technical assistance events to hel
 
 ## Start Your Survey
 ### Activate Okta Account
-You should have already received an email from Okta—a service we use to manage and secure user authentication, inviting you to activate your Okta account. Once you have activated your Okta account, you can start your survey. To help you with your Okta account activation, please review the [Okta](02%20Okta%20How-to%20Guide.md) and [Qualtrics How-to Guides](/03%20Qualtrics%20How-to%20Guide.md).
+You should have already received an email from Okta—a service we use to manage and secure user authentication—inviting you to activate your Okta account. Once you have activated your Okta account, you can start your survey. To help you with your Okta account activation, please review the [Okta](02%20Okta%20How-to%20Guide.md) and [Qualtrics How-to Guides](/03%20Qualtrics%20How-to%20Guide.md).
 
 ### Launch Survey
-To launch your survey, go to your email to find your personal link to the survey, then enter the email address and password associated with your Okta account. You will  be prompted to enter a code sent to the email or text address you provided during Okta set-up for multi-factor authentication.    
+To launch your survey, go to your email to find your personal link to the survey, then enter the email address and password associated with your Okta account. You will be prompted to enter a code sent to the email or text address you provided during Okta set-up for multi-factor authentication.    
 
 ## Questions? 
 
@@ -64,7 +64,7 @@ To launch your survey, go to your email to find your personal link to the survey
 
 Email CICD.data@mpls.frb.org. 
 
-Or contact a CICD Technical Assistance partner with your issue. 
+Or contact a CICD Technical Assistance partner with your issue:
 
 * Jacqui Baldwin-LeClair: jacqui.baldwin-leclair@mpls.frb.org or 651-368-3669
 * Phil Gover: phillip.gover@mpls.frb.org or 612-487-3168
@@ -78,6 +78,6 @@ The Survey of Native Nations aims to provide tribal governments with the informa
 
 CICD staff will be in touch in the coming months.
 
-[CICD DATA PRINCIPLES FOR RESEARCH AND DATA USE](https://www.minneapolisfed.org/indiancountry/about-us/principles-for-research-and-data-use)
+[CICD PRINCIPLES FOR RESEARCH AND DATA USE](https://www.minneapolisfed.org/indiancountry/about-us/principles-for-research-and-data-use)
 
 [FEDERAL RESERVE BANK OF MINNEAPOLIS PRIVACY POLICY](https://www.minneapolisfed.org/site-information/privacy-policies)
