@@ -1,7 +1,7 @@
 [Back to Home](/README.md)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1b41487e-b4b2-459f-aba1-85ddf14d6cd5" alt="CICD logo"/>
+  <img src="https://github.com/user-attachments/assets/1b41487e-b4b2-459f-aba1-85ddf14d6cd5" alt="CICD logo" width="50%"/>
 </p>
 
 # Okta How-to Guide
