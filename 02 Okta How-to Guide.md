@@ -1,7 +1,7 @@
 [Back to Home](/README.md)
 
 <p align="center">
-  <img src="https://github.com/frb-mpls-cde/survey-of-native-nations-support/assets/170044480/be095831-475e-413f-8552-0250b86025a5" alt="CICD logo"/>
+  <img src="https://github.com/user-attachments/assets/1b41487e-b4b2-459f-aba1-85ddf14d6cd5" alt="CICD logo"/>
 </p>
 
 # Okta How-to Guide
@@ -19,10 +19,6 @@ The Survey of Native Nations uses Okta to protect the survey and information ent
 1. Search your email for noreply@okta.com  
 2. Click “Activate Okta Account” in the email. 
 
-<p align="center">
-<img src="https://github.com/frb-mpls-cde/survey-of-native-nations-support/assets/170044480/aaa39db2-1367-4d90-a07f-2ac7b097b58d" width="50%">
-</p>
-
 3. Double-check that you have opened Okta in an approved web browser: 
 
  * Google Chrome (latest public version) 
@@ -32,7 +28,7 @@ The Survey of Native Nations uses Okta to protect the survey and information ent
 
 4. Enter a new password. 
 <p align="center">
-<img src="https://github.com/frb-mpls-cde/survey-of-native-nations-support/assets/170044480/a1598eb3-4356-4886-8075-cdc2f96f05b7" width="50%">
+<img src="https://github.com/user-attachments/assets/00cd2f73-df91-4378-bacb-611349848762" width="50%">
 </p>
 
 Your password must meet certain requirements: 
@@ -49,13 +45,13 @@ Your password must meet certain requirements:
 6. Choose a forgotten password question and enter an answer. This will be used if you forget your password. Spelling and capitalization matter. 
 
 <p align="center">
-<img src="https://github.com/frb-mpls-cde/survey-of-native-nations-support/assets/170044480/e91b59aa-2710-4cda-a068-826672673ed0" width="50%">
+<img src="https://github.com/user-attachments/assets/517d6e9f-3d05-42e0-bcf5-1134d245c70f" width="50%">
 </p>
 
 7. Choose a picture for a security image. This will be displayed whenever you sign into Okta. Your security image being displayed confirms that you are on the Okta platform. 
 
 <p align="center">
-<img src="https://github.com/frb-mpls-cde/survey-of-native-nations-support/assets/170044480/f7e22f37-021e-4697-a76b-c95eefb9e9bd" width="50%">
+<img src="https://github.com/user-attachments/assets/f3f97411-8776-4717-8494-558989764a38" width="50%">
 </p>
 
 8. Setup Multi-Factor Authentication (MFA)
@@ -86,7 +82,7 @@ You may now exit the Okta website.
 The next time you log into Okta, you will see a screen that prompts you to send yourself a code via either email or text message. 
 
 <p align="center">
-<img src="https://github.com/frb-mpls-cde/survey-of-native-nations-support/assets/170044480/e309e9dc-89a9-489e-94c6-143e578905d3" width="50%">
+<img src="https://github.com/user-attachments/assets/126e3060-7b0f-40f2-b4a6-e36ee0e7050d" width="50%">
 </p>
 
 Click on “Send me the code” and a code will be sent to either your email or your cellphone (depending on which multifactor authentication system you set up in the prior section). 
