@@ -41,8 +41,6 @@ We are planning a series of survey launch and technical assistance events to hel
 
 | Date | Time (CT) | Type | Topic + Registration Link |
 |--------------------|------------------|---------|---------|
-| Tuesday, August 27 | 1 - 2pm | Technical Assistance | [Gathering Documents](https://events.gcc.teams.microsoft.com/event/77ad79ba-c855-48f6-9b6b-8f6298bbf82d@b397c653-5b19-463f-b9fc-af658ded9128)|
-| Thursday, August 29 | 12 - 1pm | Technical Assistance | [How to Complete Your Okta Credentialing](https://events.gcc.teams.microsoft.com/event/9b484ed4-7aea-4a34-b03a-3453d38e01e5@b397c653-5b19-463f-b9fc-af658ded9128) |
 | Thursday, September 5 | 2 - 3pm | Survey Launch and Technical Assistance | [Survey Launch and How to Complete Your Okta Credentialing](https://events.gcc.teams.microsoft.com/event/2366f982-36dc-407b-a7ca-6a02c3564253@b397c653-5b19-463f-b9fc-af658ded9128)|
 | Tuesday September 10 | 1 - 2pm | Deep Dive | [Sections 1 - 3: Tribal Government, Employees, Payroll, and Enrollment](https://events.gcc.teams.microsoft.com/event/355cbc2c-f33e-4640-b2fe-0676eb04fffb@b397c653-5b19-463f-b9fc-af658ded9128) |
 | Thursday, September 12 | 1 - 2pm | Deep Dive| [Sections 4 - 8: Revenues](https://events.gcc.teams.microsoft.com/event/f94133e5-685c-4782-9793-247913b0cb67@b397c653-5b19-463f-b9fc-af658ded9128)|
