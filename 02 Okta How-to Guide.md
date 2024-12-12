@@ -8,7 +8,7 @@
 
 ## What is Okta? 
 
-Okta is a vendor of the Federal Reserve System. It is a platform to verify identity and manage access to secure resources. Okta uses Multi-Factor Authentication (MFA) to enhance security.  MFA combines multiple independent credentials to verify a user’s identity, for example: a password and an email or a password and a text message.  
+Okta is a vendor of the Federal Reserve System. It is a platform to verify identity and manage access to secure resources. Okta uses Multi-Factor Authentication (MFA) to enhance security.  MFA combines multiple independent credentials to verify a user’s identity, for example: a password and an email.
 
 ## Why does the Survey of Native Nations use Okta? 
 
@@ -55,17 +55,16 @@ Your password must meet certain requirements:
 </p>
 
 8. Setup Multi-Factor Authentication (MFA)
-   - Enter a phone number where you can receive text messages with a code from Okta.
-   -  Alternatively, enter your email address where you can receive an email with a code from Okta.
+   - Enter an email address where you can receive an email with a code from Okta.
    -   You will need a new code every time you log into Okta. 
 
 9. Click “Create My Account” 
 
  You will be taken to a new screen that shows options to set up multifactor authentication. 
 
-1. Decide if you would like to set up multifactor authentication with either your phone number or your email address. 
+1. Set up your multifactor authentication with your email address. 
 2. Then click “Setup” on the option. 
-3. Enter your phone number or email. 
+3. Enter your email. 
 4. A code will be sent to your phone number or email. 
 5. Retrieve the code and then enter the code into the Okta website. 
 6. Click “Continue” 
@@ -79,13 +78,13 @@ You may now exit the Okta website.
 
 # Logging into Okta 
 
-The next time you log into Okta, you will see a screen that prompts you to send yourself a code via either email or text message. 
+The next time you log into Okta, you will see a screen that prompts you to send yourself a code via either email. 
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/126e3060-7b0f-40f2-b4a6-e36ee0e7050d" width="50%">
 </p>
 
-Click on “Send me the code” and a code will be sent to either your email or your cellphone (depending on which multifactor authentication system you set up in the prior section). 
+Click on “Send me the code” and a code will be sent to your email. 
 
 
 # Resetting Your Password 
