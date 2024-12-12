@@ -105,7 +105,7 @@ Survey questions ask for detailed revenue and expenditure information from your 
 
 Okta is a vendor of the Federal Reserve System. It is a platform to verify identity and manage access to secure resources. Okta uses Multi-Factor Authentication (MFA) to enhance security. MFA combines multiple independent credentials to verify a user’s identity, for example: a password and an email or a password and a text message.  
 
-The Survey of Native Nations uses Okta to protect the survey and information entered into the survey from being accessed by unauthorized individuals. Okta simplify verifies your identity. Okta does not have access to any information you enter into the survey. Learn more about Okta in our [Okta How-to Guide](/02%20Okta%20How-to%20Guide.md).
+The Survey of Native Nations uses Okta to protect the survey and information entered into the survey from being accessed by unauthorized individuals. Okta simplify verifies your identity. Okta does not have access to any information you enter into the survey. Learn more about Okta in our [Okta How-to Guide](https://github.com/frb-mpls-cde/survey-of-native-nations-support/blob/main/03%20Qualtrics%20How-to%20Guide.md)).
 
 ## What about Qualtrics? 
 
