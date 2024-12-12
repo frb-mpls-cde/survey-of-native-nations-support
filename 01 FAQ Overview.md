@@ -95,7 +95,7 @@ Second, CICD will assess the data provided by all tribal respondents in aggregat
 
 ## When will my tribe receive our Survey of Native Nations report? 
 
-CICD values your time and effort in participating in the pilot Survey of Native Nations and looks forward to providing you with the analysis described above. We aim to provide these reports to our tribal participants in fall–winter 2024. 
+CICD values your time and effort in participating in the pilot Survey of Native Nations and looks forward to providing you with the analysis described above. We aim to provide these reports to our tribal participants in spring 2025. 
 
 ## How can I prepare for my survey? 
 
@@ -111,7 +111,7 @@ The Survey of Native Nations uses Okta to protect the survey and information ent
 
 Qualtrics is a vendor of the Federal Reserve System. It is a platform to administer surveys. This Qualtrics environment is managed by the Federal Reserve. Any data that you enter into Qualtrics will be kept confidential and cannot be accessed by unauthorized users. 
 
-The Survey of Native Nations uses Qualtrics to provide a streamlined and user-friendly survey experience. Qualtrics is used by leading research organizations across the United States. Learn more about Qualtrics in our [Qualtrics How-to Guide(/04%20Qualtrics%20How-to%20Guide.md).
+The Survey of Native Nations uses Qualtrics to provide a streamlined and user-friendly survey experience. Qualtrics is used by leading research organizations across the United States. Learn more about Qualtrics in our [Qualtrics How-to Guide (03%20Qualtrics%20How-to%20Guide.md).
 
 ## Why does the survey focus on fiscal year 2022 financials? 
 
@@ -127,7 +127,7 @@ You may exit and re-enter the survey before you submit it. Survey responses are 
 
 ## What is the survey deadline? 
 
-Completed surveys are due September 26, 2024. 
+Completed surveys are due Friday, January 10, 2025. If you do not think you can complete the survey by this time, please reach out to your point of contact or to cicd.data@mpls.frb.org.  
 
 ## How do I submit my survey? 
 
