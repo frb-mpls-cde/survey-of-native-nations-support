@@ -105,13 +105,13 @@ Survey questions ask for detailed revenue and expenditure information from your 
 
 Okta is a vendor of the Federal Reserve System. It is a platform to verify identity and manage access to secure resources. Okta uses Multi-Factor Authentication (MFA) to enhance security. MFA combines multiple independent credentials to verify a user’s identity, for example: a password and an email or a password and a text message.  
 
-The Survey of Native Nations uses Okta to protect the survey and information entered into the survey from being accessed by unauthorized individuals. Okta simplify verifies your identity. Okta does not have access to any information you enter into the survey. Learn more about Okta in our [Okta How-to Guide](https://github.com/frb-mpls-cde/survey-of-native-nations-support/blob/main/03%20Qualtrics%20How-to%20Guide.md)).
+The Survey of Native Nations uses Okta to protect the survey and information entered into the survey from being accessed by unauthorized individuals. Okta simplify verifies your identity. Okta does not have access to any information you enter into the survey. Learn more about Okta in our [Okta How-to Guide](https://github.com/frb-mpls-cde/survey-of-native-nations-support/blob/main/02%20Okta%20How-to%20Guide.md).
 
 ## What about Qualtrics? 
 
 Qualtrics is a vendor of the Federal Reserve System. It is a platform to administer surveys. This Qualtrics environment is managed by the Federal Reserve. Any data that you enter into Qualtrics will be kept confidential and cannot be accessed by unauthorized users. 
 
-The Survey of Native Nations uses Qualtrics to provide a streamlined and user-friendly survey experience. Qualtrics is used by leading research organizations across the United States. Learn more about Qualtrics in our [Qualtrics How-to Guide (03%20Qualtrics%20How-to%20Guide.md).
+The Survey of Native Nations uses Qualtrics to provide a streamlined and user-friendly survey experience. Qualtrics is used by leading research organizations across the United States. Learn more about Qualtrics in our [Qualtrics How-to Guide](https://github.com/frb-mpls-cde/survey-of-native-nations-support/blob/main/03%20Qualtrics%20How-to%20Guide.md).
 
 ## Why does the survey focus on fiscal year 2022 financials? 
 
