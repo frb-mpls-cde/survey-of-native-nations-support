@@ -8,7 +8,7 @@ Welcome!
 
 Thank you for participating in the [Center for Indian Country Development’s (CICD’s)](https://www.minneapolisfed.org/indiancountry/) Survey of Native Nations at the [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/). 
 
-Please submit your completed survey by Thursday, October 31, 2024.
+Please submit your completed survey by Friday, January 10, 2025.
 
 For technical assistance, please bookmark this resource.
 
@@ -41,13 +41,10 @@ We are planning a series of survey launch and technical assistance events to hel
 
 | Date | Time (CT) | Type | Topic + Registration Link |
 |--------------------|------------------|---------|---------|
-| Thursday, September 5 | 2 - 3pm | Survey Launch and Technical Assistance | [Survey Launch and How to Complete Your Okta Credentialing](https://events.gcc.teams.microsoft.com/event/2366f982-36dc-407b-a7ca-6a02c3564253@b397c653-5b19-463f-b9fc-af658ded9128)|
-| Tuesday September 10 | 1 - 2pm | Deep Dive | [Sections 1 - 3: Tribal Government, Employees, Payroll, and Enrollment](https://events.gcc.teams.microsoft.com/event/355cbc2c-f33e-4640-b2fe-0676eb04fffb@b397c653-5b19-463f-b9fc-af658ded9128) |
-| Thursday, September 12 | 1 - 2pm | Deep Dive| [Sections 4 - 8: Revenues](https://events.gcc.teams.microsoft.com/event/f94133e5-685c-4782-9793-247913b0cb67@b397c653-5b19-463f-b9fc-af658ded9128)|
-| Tuesday, September 17 | 1 - 2pm | Deep Dive | [Sections 9 and 10: Expenditures](https://events.gcc.teams.microsoft.com/event/831e4edc-c4a8-4a56-9b56-4a29adc4924e@b397c653-5b19-463f-b9fc-af658ded9128) |
-| Thursday, October 10 | 1 - 2pm | Technical Assistance | [Sections 1 - 3: Tribal Government, Employees, Payroll, and Enrollment](https://events.gcc.teams.microsoft.com/event/0971b727-eb95-4c22-8a15-383c636aa9a3@b397c653-5b19-463f-b9fc-af658ded9128) |
-| Tuesday, October 15 | 1 - 2pm| Deep Dive| [Sections 4 - 8: Revenues](https://events.gcc.teams.microsoft.com/event/bd957c82-69eb-43cf-af9d-2c008d8efed7@b397c653-5b19-463f-b9fc-af658ded9128) |
-| Wednesday, October 23 | 11am - 12pm | Deep Dive | [Sections 9 and 10: Expenditures](https://events.gcc.teams.microsoft.com/event/cdb51984-17f4-455a-9e5d-3c866ce1228f@b397c653-5b19-463f-b9fc-af658ded9128) |
+| Thursday, December 19 | 1 - 2pm | Office Hour | [Survey of Native Nations Office Hour](https://events.gcc.teams.microsoft.com/event/6ab8244a-da08-494a-86a3-5fa3682c7d9e@b397c653-5b19-463f-b9fc-af658ded9128)|
+| Monday, January 6 | 2 - 3pm | Office Hour | [Survey of Native Nations Office Hour](https://events.gcc.teams.microsoft.com/event/f52a0558-c88e-4fff-baf7-d2cb42fdde68@b397c653-5b19-463f-b9fc-af658ded9128)|
+| Tuesday, January 7 | 2 - 3pm | Office Hour| [Survey of Native Nations Office Hour](https://events.gcc.teams.microsoft.com/event/2d75a92e-4698-4cc7-8306-1d4c559bd10f@b397c653-5b19-463f-b9fc-af658ded9128)|
+| Friday, January 10 | 11am - 1pm | Office Hour | [Survey of Native Nations Office Hour](https://events.gcc.teams.microsoft.com/event/831e4edc-c4a8-4a56-9b56-4a29adc4924e@b397c653-5b19-463f-b9fc-af658ded9128)|
 
 ## Start Your Survey
 ### Activate Okta Account
