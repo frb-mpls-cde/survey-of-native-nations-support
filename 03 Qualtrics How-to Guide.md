@@ -16,7 +16,7 @@ The Survey of Native Nations uses Qualtrics to provide a streamlined and user-fr
 
 ## Get Started 
 
-1. Search your email for CICD.data@mpls.frb.org. The email is titled “CICD Survey of Native Nations: Invitation to your survey, due September 26.”  
+1. Search your email for CICD.data@mpls.frb.org. The email should be titled something like “CICD Survey of Native Nations: Invitation to your survey, due September 26” or “CICD Survey of Native Nations: Invitation to your survey, due January 10.”   
 
 2. Click on the highlighted link to the survey in the email. The link in the email is valid for 30 days. You will be sent to an Okta sign in screen. 
 
