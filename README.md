@@ -43,7 +43,7 @@ We are planning a series of survey launch and technical assistance events to hel
 You should have already received an email from Okta—a service we use to manage and secure user authentication—inviting you to activate your Okta account. Once you have activated your Okta account, you can start your survey. To help you with your Okta account activation, please review the [Okta](02%20Okta%20How-to%20Guide.md) and [Qualtrics How-to Guides](/03%20Qualtrics%20How-to%20Guide.md).
 
 ### Launch Survey
-To launch your survey, go to your email to find your personal link to the survey, then enter the email address and password associated with your Okta account. You will be prompted to enter a code sent to the email or text address you provided during Okta set-up for multi-factor authentication.    
+To launch your survey, go to your email to find your personal link to the survey, then enter the email address and password associated with your Okta account. You will be prompted to enter a code sent to the email address you provided during Okta set-up for multi-factor authentication.    
 
 ## Questions? 
 
