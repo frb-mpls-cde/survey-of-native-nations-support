@@ -64,8 +64,8 @@ Your password must meet certain requirements:
 
 1. Set up your multifactor authentication with your email address. 
 2. Then click “Setup” on the option. 
-3. Enter your email. 
-4. A code will be sent to your phone number or email. 
+3. Enter your email address. 
+4. A code will be sent to your email. 
 5. Retrieve the code and then enter the code into the Okta website. 
 6. Click “Continue” 
 
@@ -93,18 +93,12 @@ You must wait one day between setting a password and changing a password.
 
 If you experience issues with the self-service password reset, please contact us.
 
-[Book a 1:1 session with us](https://outlook.office365.com/book/CenterforIndianCountryDevelopment@mpls.frb.org/s/Ljlj4ALhN0CvcSMbThBhFg2).
-
 Email CICD.data@mpls.frb.org. 
 
 Or contact a CICD Technical Assistance partner with your issue. 
 
-* Jacqui Baldwin-LeClair: jacqui.baldwin-leclair@mpls.frb.org or 651-368-3669
-* Phil Gover: phillip.gover@mpls.frb.org or 612-487-3168
-* Andrew Huff: andrew.huff@mpls.frb.org or 406-438-2167
+* H Trostle: h.trostle@mpls.frb.org or 651-341-4817
 * Misha LaPlante: misha.laplante@mpls.frb.org or 612-655-3278
-* John Morseau: john.morseau@mpls.frb.org or 612-258-4743
-* Heather Sobrepena: heather.sobrepena@mpls.frb.org or 612-257-1874  
 
 
 # Video Tutorial
@@ -113,3 +107,4 @@ Or contact a CICD Technical Assistance partner with your issue.
 [CICD PRINCIPLES FOR RESEARCH AND DATA USE](https://www.minneapolisfed.org/indiancountry/about-us/principles-for-research-and-data-use)
 
 [FEDERAL RESERVE BANK OF MINNEAPOLIS PRIVACY POLICY](https://www.minneapolisfed.org/site-information/privacy-policies)
+
