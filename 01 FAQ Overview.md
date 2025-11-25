@@ -53,9 +53,7 @@ The Federal Reserve, like many other central banks, is an independent government
 
 CICD’s Survey of Native Nations aims to provide tribal governments with the data they need to evaluate their finances in relation to those of local and state governments, and to identify areas of opportunity for revenue growth and diversification. The U.S. Census Bureau conducts a similar survey called the Census of Governments, collecting information about state and local government revenues and expenditures. Tribal governments have not been a part of the Census of Governments. The Survey of Native Nations is intended to remedy this data gap. We hope the survey will be a valuable tool for long-term financial planning, for identifying opportunities to maximize tribal revenue streams, and for assisting tribal leaders in telling the stories of their own communities. 
 
-In August 2024, CICD is launching nother round of the Survey of Native Nations with select tribal governments. Ultimately, we hope to offer the survey to tribes across Indian Country as a tool for developing long-term plans for their tribal treasuries and increasing awareness of the unique challenges and contributions of tribal economies. 
-
-[Download the Survey of Native Nations 1-Pager.](/About%20SNN.pdf)
+[Federal Reserve Bank of Minneapolis: Survey of Native Nations](https://www.minneapolisfed.org/indiancountry/survey-of-native-nations)
 
 ## How will CICD protect and use my data? 
 
@@ -127,7 +125,7 @@ You may exit and re-enter the survey before you submit it. Survey responses are 
 
 ## What is the survey deadline? 
 
-Completed surveys are due Friday, January 10, 2025. If you do not think you can complete the survey by this time, please reach out to your point of contact or to cicd.data@mpls.frb.org.  
+Completed surveys are due mid-Summer 2026. If you do not think you can complete the survey by this time, please reach out to your point of contact or to cicd.data@mpls.frb.org.  
 
 ## How do I submit my survey? 
 
@@ -160,12 +158,8 @@ Check out the Section by Section Guides on this Technical Assistance site.
 
 For additional questions on how to complete your Survey of Native Nations, contact your assigned CICD Technical Assistance representative or contact CICD.data@mpls.frb.org. 
 
-*	Jacqui Baldwin-LeClair: jacqui.baldwin-leclair@mpls.frb.org or 651-368-3669
-*	Phil Gover: phillip.gover@mpls.frb.org or 612-487-3168
-*	Andrew Huff: andrew.huff@mpls.frb.org or 406-438-2167
+* H Trostle: h.trostle@mpls.frb.org or 651-341-4817
 *	Misha LaPlante: misha.laplante@mpls.frb.org or 612-655-3278
-*	John Morseau: john.morseau@mpls.frb.org or 612-258-4743
-*	Heather Sobrepena: heather.sobrepena@mpls.frb.org or 612-257-1874
 
 Thank you for participating in the Survey of Native Nations! 
 
