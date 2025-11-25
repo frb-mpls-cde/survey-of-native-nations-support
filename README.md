@@ -20,7 +20,7 @@ On this resource, you will be able to access all of the survey support resources
 | [04 Troubleshooting](/04%20Troubleshooting.md) | General advice if you are having trouble with Okta and Qualtrics |
 | [05 Data Handling](/05%20Data%20Handling.md) | Learn how CICD manages and protects your data |
 | [06 SNN Questionnaire](/06%20SNN%20Questionnaire.pdf) | The full text of the questionnaire in a convenient PDF |
-| [Survey Guide] (/survey_guide/) | Section-by-section guide to key survey questions |
+| [Survey Guide](survey_guide) | Section-by-section guide to key survey questions |
 
 ## Table of Contents
 * [Getting Started](/README.md#getting-started)
