@@ -10,26 +10,26 @@
  <img src="https://github.com/user-attachments/assets/b7ac6148-c0ae-4aee-a89a-a51ba10dbdc3">
 </p>
 <p>
-**Don't worry, you are in the right place!**
+<strong>Don't worry, you are in the right place!</strong>
 </p>
 <p></p>
-3. Now that you are in the correct place, there are ***two options to download*** the workbook.
-*Option 1*: Click the **download symbol** under the word "**History**" on the righthand side of the page.
+3. Now that you are in the correct place, there are <italic><strong>two options to download</strong></italic> the workbook.
+<p></p><italic>Option 1</italic>: Click the <strong>download symbol</strong> under the word "<strong>History</strong>" on the righthand side of the page.
 <p align ="center">
   <img src="https://github.com/user-attachments/assets/a484a24a-c032-4b9d-901a-944bf18f0f28">
 </p>
-*Option 2*: Select the **three dots** to get a **drop-down menu**. 
+<italic>Option 2</italic>: Select the <strong></strong>three dots</strong> to get a <strong>drop-down menu</strong>. 
 <p align = "center">
   <img src="https://github.com/user-attachments/assets/04fb201e-7eac-4491-88bb-445cd31810a9">
 </p>
-<p>Select the first choice labeled "**Download**"</p>
+<p>Select the first choice labeled "<strong>Download</strong>"</p>
 <p align = "center">
    <img src="https://github.com/user-attachments/assets/a11cb575-bfda-486c-bd90-ce2432c9f7a3">
 </p>
 <p></p>
-4. Once the download is complete, it will be saved to your **Downloads** folder.
-a. Depending on your browser, there may be a **pop up** in the top right corner of your screen. Double click "**Open file**" for the workbook to open.
-b. Once you have the file open, we recommend saving it and utilizing the auto-save function, so you do not lose any of your work once you begin.
+4. Once the download is complete, it will be saved to your <strong>Downloads</strong> folder.
+<p></p>a. Depending on your browser, there may be a **pop up** in the top right corner of your screen. Double click "<strong>Open file</strong>" for the workbook to open.
+<p></p>b. Once you have the file open, we recommend saving it and utilizing the auto-save function, so you do not lose any of your work once you begin.
 <p align = "center">
 <img src="https://github.com/user-attachments/assets/82438cdc-cc61-42c4-a311-6f062c159458">
 </p>
